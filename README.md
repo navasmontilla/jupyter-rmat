@@ -2,7 +2,7 @@
 
 Este repositorio contiene Jupyter Notebooks. Se pueden visualizar desde GitHub y ejecutar desde Binder. Click aquí para abrir myBinder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/navasmontilla/jupyter-rmat/master?filepath=notebooks%2FP5.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/navasmontilla/jupyter-rmat/master?filepath=indice.ipynb)
 
 Este repositorio consta de dos notebooks:
 - [Problema 5 (tema 6)](notebooks/P5.ipynb) 
