@@ -1,4 +1,4 @@
-# Info
+# ¿Cómo ejecutar los Notebooks?
 
 Este repositorio contiene Jupyter Notebooks. Se pueden visualizar desde GitHub y ejecutar desde Binder o Google Colab. 
 
