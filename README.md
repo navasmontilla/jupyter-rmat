@@ -15,7 +15,7 @@ También se puede ejecutar desde Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/navasmontilla/jupyter-rmat/blob/master/indice.ipynb)
 
-Aparentemente esto no necesita ningún tipo de información adicional y es mucho más rápido. Además, permite hacer cambios y subirlos a GitHub, cosa que Binder no.
+Aparentemente esto no necesita ningún tipo de información adicional y es mucho más rápido. Además, permite hacer cambios y subirlos a GitHub, cosa que Binder no. Cuando haces un cambio desde Google Colab, hay que clickar en "Archivo -> Guardar una copia en GitHub" si quieres que se actualice el repositorio en GitHub. 
 
 # Índice
 
