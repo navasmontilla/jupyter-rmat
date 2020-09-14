@@ -21,6 +21,6 @@ Aparentemente esto no necesita ningún tipo de información adicional y es mucho
 
 Este repositorio consta de dos notebooks:
 - [Problema 5 (tema 6)](notebooks/P5.ipynb) 
-- [Problema 6 (tema 4)](notebooks/P9.ipynb) 
+- [Problema 9 (tema 4)](notebooks/P9.ipynb) 
 
 
