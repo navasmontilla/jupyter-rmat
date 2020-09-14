@@ -8,7 +8,7 @@ Click aquí para abrir myBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/navasmontilla/jupyter-rmat/master?filepath=indice.ipynb)
 
-**Importante:** Para que funcione, es necesario el archivo ```requirements.txt``` con los paquetes que se van a usar, para que los cargue la máquina virtual. La primera vez le cuesta más cargar.
+**Importante:** Para que funcione, es necesario el archivo ```requirements.txt``` con los paquetes que se van a usar, para que los cargue la máquina virtual. La primera vez le cuesta más cargar. Sympy me da problemas, da errores de ejecución...
 
 ## Google Colab
 También se puede ejecutar desde Google Colab:
